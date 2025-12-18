@@ -38,11 +38,23 @@ body{
 }
 
 #tree-container{
+    max-width: 20rem;
+    display: flex;
+    margin: auto auto;
+}
+
+#star{
+    display: inline-block;
+    position: relative;
+    margin: 0 -13rem;
+    font-size: 5rem;
+    z-index: 5;
 
 }
 
 #tree{
-    height: 30rem;
-    display: flex;
-    margin: auto auto;
+    width: 20rem;
+    display: inline;
+    margin: 4.5rem auto;
+    z-index: 0;
 }
