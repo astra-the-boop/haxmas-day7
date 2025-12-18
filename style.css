@@ -36,3 +36,13 @@ body{
 #header, #footer{
     text-align: center;
 }
+
+#tree-container{
+
+}
+
+#tree{
+    height: 30rem;
+    display: flex;
+    margin: auto auto;
+}
