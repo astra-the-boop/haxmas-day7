@@ -31,6 +31,8 @@
 
 body{
     font-family: 'Phantom Sans', sans-serif;
+    background-image: url("img/backgroundtile.png");
+    color: azure;
 }
 
 #header, #footer{
@@ -55,6 +57,6 @@ body{
 #tree{
     width: 20rem;
     display: inline;
-    margin: 4.5rem auto;
+    margin: 4rem 0 0 0;
     z-index: 0;
 }
