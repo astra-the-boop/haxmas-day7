@@ -60,3 +60,20 @@ body{
     margin: 4rem 0 0 0;
     z-index: 0;
 }
+
+#decorations{
+    display: inline-block;
+}
+
+.ornament{
+    height: 2rem;
+    position: relative;
+    display: inline-block;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    z-index: 10;
+}
+
+.important-text{
+    color:#5bc0de;
+}
